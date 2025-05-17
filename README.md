@@ -68,8 +68,9 @@ For real-world deployment:
     Implement more robust authentication mechanisms.
 
 ## 📷 Sample Output
+![image](https://github.com/user-attachments/assets/09e23360-61c3-4d8d-afd0-45f64ccb8943)
 
-<img width="710" alt="image" src="https://github.com/user-attachments/assets/ab10a929-7c6e-4a1b-8d2a-f44afb3c3d34" />
+
 
 ✍️ Author
 Vivek Kumar
