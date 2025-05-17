@@ -47,15 +47,18 @@ pip install opencv-python
 ```
 
 * Enter the correct password when prompted.
-
-  ![Screenshot 2025-05-17 223257](https://github.com/user-attachments/assets/0e1fa418-3ff2-4b2d-b6cc-44a06382e329)
 * If incorrect password is entered 3 times, the system activates.
 * When motion is detected, it:
     * Highlights the intruder in the webcam feed.
     * Captures a snapshot.
     * Sends it to the configured email addresses.
+ 
+Sample 
+![Screenshot 2025-05-17 223257](https://github.com/user-attachments/assets/0e1fa418-3ff2-4b2d-b6cc-44a06382e329)
 ![Screenshot 2025-05-17 223221](https://github.com/user-attachments/assets/6ee770e9-12fb-45dd-b13a-5642acbc304f)
-  
+
+<img width="481" alt="image" src="https://github.com/user-attachments/assets/98b311ab-bf76-48e8-9c65-d20724998786" />
+
 
 ## 🛡️ Security Note
 ⚠️ Never hardcode real email passwords or sensitive data in code.
