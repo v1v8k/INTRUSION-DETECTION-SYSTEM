@@ -48,6 +48,7 @@ pip install opencv-python
 ```
 When enter incorrect password!
 ![Screenshot 2025-05-17 223221](https://github.com/user-attachments/assets/6ee770e9-12fb-45dd-b13a-5642acbc304f)
+
 When enter correct password!
 ![Screenshot 2025-05-17 223257](https://github.com/user-attachments/assets/0e1fa418-3ff2-4b2d-b6cc-44a06382e329)
 
@@ -67,6 +68,7 @@ For real-world deployment:
     Implement more robust authentication mechanisms.
 
 📷 Sample Output
+
 <img width="710" alt="image" src="https://github.com/user-attachments/assets/ab10a929-7c6e-4a1b-8d2a-f44afb3c3d34" />
 
 ✍️ Author
