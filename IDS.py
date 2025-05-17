@@ -31,11 +31,11 @@ if password_correct:
     exit()
 
  
-sender_email = "vivek7061054537@gmail.com" 
-receiver_email = ["hyckerseeyou0@gmail.com"]  # Add additional emails here
+sender_email = "abcd@gmail.com" 
+receiver_email = ["abcd@gmail.com"]  # Add additional emails here
 
 
-app_password = "bjwl hofl zqit zjbr"  # Replace with your actual app password
+app_password = "xxxx xxxx xxxx xxxx"  # Replace with your actual app password
  
 cap = cv2.VideoCapture(0) 
 
