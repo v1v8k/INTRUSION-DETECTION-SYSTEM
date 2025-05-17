@@ -72,13 +72,9 @@ For real-world deployment:
 <img width="710" alt="image" src="https://github.com/user-attachments/assets/ab10a929-7c6e-4a1b-8d2a-f44afb3c3d34" />
 
 ✍️ Author
-Vivek Kumar – GitHub
+Vivek Kumar
 
 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-
 ---
-```bash
-Let me know if you want me to generate a `requirements.txt` file or add environment variable support for passwords (`.env` file).
-```
