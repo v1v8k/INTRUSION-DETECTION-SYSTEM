@@ -45,18 +45,17 @@ pip install opencv-python
 ```bash
     python3 IDS.py
 ```
-When enter incorrect password!
-![Screenshot 2025-05-17 223221](https://github.com/user-attachments/assets/6ee770e9-12fb-45dd-b13a-5642acbc304f)
-
-When enter correct password!
-![Screenshot 2025-05-17 223257](https://github.com/user-attachments/assets/0e1fa418-3ff2-4b2d-b6cc-44a06382e329)
 
 * Enter the correct password when prompted.
+
+  ![Screenshot 2025-05-17 223257](https://github.com/user-attachments/assets/0e1fa418-3ff2-4b2d-b6cc-44a06382e329)
 * If incorrect password is entered 3 times, the system activates.
 * When motion is detected, it:
     * Highlights the intruder in the webcam feed.
     * Captures a snapshot.
     * Sends it to the configured email addresses.
+![Screenshot 2025-05-17 223221](https://github.com/user-attachments/assets/6ee770e9-12fb-45dd-b13a-5642acbc304f)
+  
 
 ## 🛡️ Security Note
 ⚠️ Never hardcode real email passwords or sensitive data in code.
