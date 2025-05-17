@@ -8,7 +8,7 @@ This project is a **Python-based Intruder Detection System** using OpenCV and SM
 
 ## 🚀 Features
 
-- 🔑 **Password protection** before the program starts
+- 🔑 **Password protection**
 - 🎥 **Webcam-based motion detection**
 - 📷 Automatically captures image when motion is detected
 - 📧 Sends **email alert** with the snapshot of the intruder
@@ -42,7 +42,7 @@ pip install opencv-python
   * Replace the sender_email and app_password with your Gmail and App Password.
   * Add the desired recipients in the receiver_email list.
 
-▶️ How to Run
+## ▶️ How to Run
 ```bash
     python3 IDS.py
 ```
@@ -59,7 +59,7 @@ When enter correct password!
     * Captures a snapshot.
     * Sends it to the configured email addresses.
 
-🛡️ Security Note
+## 🛡️ Security Note
 ⚠️ Never hardcode real email passwords or sensitive data in code.
 For real-world deployment:
 
@@ -67,14 +67,11 @@ For real-world deployment:
 
     Implement more robust authentication mechanisms.
 
-📷 Sample Output
+## 📷 Sample Output
 
 <img width="710" alt="image" src="https://github.com/user-attachments/assets/ab10a929-7c6e-4a1b-8d2a-f44afb3c3d34" />
 
 ✍️ Author
 Vivek Kumar
-
-📄 License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
