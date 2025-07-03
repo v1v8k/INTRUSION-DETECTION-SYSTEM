@@ -1,7 +1,7 @@
 
-# 🔐 Intruder Detection System with Email Alert
+# 🔐 Intrusion Detection System with Email Alert
 
-This project is a **Python-based Intruder Detection System** using OpenCV and SMTP. It uses motion detection through a webcam to detect unauthorized access and sends an alert email with an attached snapshot of the intruder.
+This project is a **Python-based Intrusion Detection System** using OpenCV and SMTP. It uses motion detection through a webcam to detect unauthorized access and sends an alert email with an attached snapshot of the intruder.
 
 ---
 
@@ -29,8 +29,8 @@ This project is a **Python-based Intruder Detection System** using OpenCV and SM
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/v1v8k/INTRUDER-DETECTION-SYSTEM.git
-cd INTRUDER-DETECTION-SYSTEM
+git clone https://github.com/v1v8k/INTRUSION-DETECTION-SYSTEM.git
+cd INTRUSION-DETECTION-SYSTEM
 
 ```
 2. **Install dependencies**
